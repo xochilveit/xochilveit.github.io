@@ -15,3 +15,6 @@ James Bond series of novels, films, comics and video games.
 
 > Bond. James Bond.
 
+
+<img src="https://upload.wikimedia.org/wikipedia/en/c/c5/Fleming007impression.jpg"/>
+
